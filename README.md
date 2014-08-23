@@ -2,6 +2,8 @@
 
 This system adds the ability to extend entity logic with Lua scripts.
 
+It has only been tested with entityx 0.1.0. 1.0.0 compatible version is still work in process.
+
 ## Example
 To use this system, first include the header entityx_lua.h. Create a component Position and export it to lua.
 ```c++
